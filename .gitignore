@@ -1,7 +1,13 @@
+services/blog-categories/config/config.json
 services/blog-comments/config/config.json
 services/blog-posts/config/config.json
+services/blog-tags/config/config.json
 services/users/config/config.json
 
+services/blog-categories/node_modules/*
 services/blog-comments/node_modules/*
 services/blog-posts/node_modules/*
+services/blog-tags/node_modules/*
 services/users/node_modules/*
+
+.idea/*

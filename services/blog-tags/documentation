@@ -1,0 +1,7 @@
+this will be the endpoint that gets called from frontend with post id and will return al tags for said post
+exports.viewTagsByBlogPost = function(req, res){
+    // Call tag id endpoint likewise in tags you will call this endpoint
+    res.status(200).json({success: true, message: 'Success', data: [1,2,3]});
+
+};
+

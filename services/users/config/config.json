@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Makeda@2300",
+    "database": "blogDb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "secret"   : "Str1veN0tT0BeA$ucc3ssButR@therToB30fV@lue!"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "secret"   : "Str1veN0tT0BeA$ucc3ssButR@therToB30fV@lue!"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "secret"   : "Str1veN0tT0BeA$ucc3ssButR@therToB30fV@lue!"
+  }
+}
